@@ -1,0 +1,10 @@
+/opt/CLion/CLion-2021.3.4/clion-2021.3.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/opt/CLion/CLion-2021.3.4/clion-2021.3.4/bin/ninja/linux/ninja -G Ninja /home/louay/CLionProjects/Lab1OS
+-- The C compiler identification is GNU 9.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/louay/CLionProjects/Lab1OS/cmake-build-debug
